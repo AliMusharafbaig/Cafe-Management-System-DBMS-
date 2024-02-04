@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="additem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="audit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cashier,cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="creditcard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customer_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="empl_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="exitform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hotselling_prod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="jazcasheasypaisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loyal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manageitems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MANAGE_CUSTOMERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modfiy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplier_managment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplyorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUPPLY_MANAGE_ADD_OR_DELETE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
